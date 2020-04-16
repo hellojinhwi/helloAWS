@@ -19,3 +19,7 @@ notifications:
   email:
     recipients:
       - hellojinhwi@gmail.com
+
+# 권한 추가
+before_install:
+  - chomod +x gradlew

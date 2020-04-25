@@ -30,3 +30,6 @@
   - DB : MySQL, AWS RDS
   - Environment : IntelliJ
   - Build Tool : Gradle
+
+**4. URL**
+  ec2-15-165-222-69.ap-northeast-2.compute.amazonaws.com

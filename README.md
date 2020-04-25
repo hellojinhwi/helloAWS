@@ -23,11 +23,10 @@
   - AWS 자동화 & 무중단 배포 Solution Architecture <br>
   ![helloAWS_Architecture](https://user-images.githubusercontent.com/53262708/80268144-04d3b100-86e0-11ea-9a85-ea138ea2a231.jpg)<br>
   
+  
 **3.Skill Set**<br>
-  *Front-end : Mustache, Javascript, Bootstrap
-  *Back-end : Spring Boot, AWS ( EC2, IAM, RDS, S3, CodeDeploy ), Travis CI, NGINX
-  *DB : MySQL, AWS RDS
-  *Environment : IntelliJ
-  *Build Tool : Gradle
-  
-  
+  - Front-end : Mustache, Javascript, Bootstrap
+  - Back-end : Spring Boot, AWS ( EC2, IAM, RDS, S3, CodeDeploy ), Travis CI, NGINX
+  - DB : MySQL, AWS RDS
+  - Environment : IntelliJ
+  - Build Tool : Gradle
